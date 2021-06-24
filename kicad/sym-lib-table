@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Nevermore)(type Legacy)(uri ${KIPRJMOD}/Nevermore.lib)(options "")(descr ""))
+  (lib (name NevermoreController-rescue)(type Legacy)(uri ${KIPRJMOD}/NevermoreController-rescue.lib)(options "")(descr ""))
+  (lib (name noname-rescue)(type Legacy)(uri ${KIPRJMOD}/noname-rescue.lib)(options "")(descr ""))
+)
