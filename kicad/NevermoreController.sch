@@ -378,14 +378,14 @@ Wire Wire Line
 	2550 1700 2550 1750
 Wire Wire Line
 	2200 1700 2200 1650
-Text Label 5175 7075 2    50   ~ 0
-USB_D+
 Text Label 5175 6975 2    50   ~ 0
+USB_D+
+Text Label 5175 6875 2    50   ~ 0
 USB_D-
 Wire Wire Line
-	4850 6975 5175 6975
+	4850 6875 5175 6875
 Wire Wire Line
-	4850 7075 5175 7075
+	4850 6975 5175 6975
 Text Label 2825 1250 2    50   ~ 0
 USB_D+
 Text Label 2825 1350 2    50   ~ 0
